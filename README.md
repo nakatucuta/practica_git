@@ -1,2 +1,2 @@
-## GUIA AÑADIDA POR Felix Jacome
+## GUIA
 ![Texto alternativo](mardow.jpg)
